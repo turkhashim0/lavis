@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<conio.h>
 int fib ( int);
-int main () 
+int main () retertetyeytey
 { int n,i;
-/*clscr();*/
-printf("enter no of term\n");
+/*clscr();*/hyrhyhfh
+printf("enter no of term\n");hfhrtyhrtr
 scanf("%d",&n);
 printf("fibonacci series:\n");
 for (i=0;i<n;i++)  
